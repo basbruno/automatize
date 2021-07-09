@@ -1,0 +1,21 @@
+{
+  "name": "auto",
+  "version": "1.0.0",
+  "description": "Automatização de processo de busca em um e-commerce e consultar carrinho",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.7.0",
+    "mochawesome": "^6.2.2",
+    "mochawesome-report-generator": "^5.2.0",
+    "yarn": "^1.22.10"
+  },
+  "dependencies": {
+    "mocha": "^9.0.2",
+    "mochawesome-report": "^1.0.0-alpha.1"
+  }
+}
